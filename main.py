@@ -62,8 +62,8 @@ percentiles_3 = make_percentiles(df_3, 258)
 fig_3 = make_histogram(df_3, percentiles_3, 258)
 
 df_4 = get_leaderboard(4)
-percentiles_4 = make_percentiles(df_4, 300)
-fig_4 = make_histogram(df_4, percentiles_4, 300)
+percentiles_4 = make_percentiles(df_4, 285)
+fig_4 = make_histogram(df_4, percentiles_4, 285)
 
 #fig_scatter = make_scatter_plot(df_3, df_4)
 
